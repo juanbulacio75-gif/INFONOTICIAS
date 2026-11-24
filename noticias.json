@@ -1,13 +1,105 @@
 {
-  "actualizado": "2026-11-24",
-  "noticias": [
-    {"fecha":"2026-11-18","categoria":"Córdoba","impacto":"alto","efecto":"positivo","titulo":"Córdoba capital: el permiso de edificación se tramita 100% online","paraVos":"Menos plazo para habilitar casas en seco en la ciudad.","fuente":"La Voz / Infonegocios","url":"https://infonegocios.info/ciudad-informa/a-cuatro-meses-de-su-creacion-la-plataforma-digital-de-obras-privadas-lleva-mas-de-1-500-gestiones"},
-    {"fecha":"2026-11-10","categoria":"Materiales","impacto":"medio","efecto":"negativo","titulo":"Índice Construya: ventas de insumos -3,53% en octubre y -9% interanual","paraVos":"Menos demanda de obra tradicional; clientes más cautos.","fuente":"mercado.com.ar","url":"https://mercado.com.ar/ladrillos-y-proyectos/el-indice-construya-cayo-353-en-octubre-y-bajo-9-interanual"},
-    {"fecha":"2026-11-10","categoria":"Economía","impacto":"medio","efecto":"positivo","titulo":"ISAC INDEC: la actividad de la construcción subió 5,1% interanual en septiembre","paraVos":"La actividad general mejora aunque las ventas de insumos privados caen.","fuente":"INDEC","url":"https://www.indec.gob.ar/uploads/informesdeprensa/isac_11_26F4E69BED3F.pdf"},
-    {"fecha":"2026-10-29","categoria":"Economía","impacto":"medio","efecto":"positivo","titulo":"BCRA: tasas reales de corto plazo negativas y menor mora favorecen el crédito","paraVos":"Más crédito puede reactivar la demanda de vivienda.","fuente":"BCRA","url":"https://www.bcra.gob.ar/pdfs/noticias/presentacion-conferencia-de-prensa-2026-10-29.pdf"},
-    {"fecha":"2026-10-16","categoria":"Economía","impacto":"alto","efecto":"negativo","titulo":"El costo de la construcción subió 1,5% en septiembre y acumula 31,3% interanual","paraVos":"Presupuestos con validez corta o cláusula de actualización.","fuente":"INDEC / mercado.com.ar","url":"https://mercado.com.ar/informes-especiales/el-costo-de-la-construccion-subio-15-en-septiembre-y-acumula-313-interanual"},
-    {"fecha":"2026-08-24","categoria":"Laboral","impacto":"medio","efecto":"negativo","titulo":"UOCRA: se homologó el aporte empresario del 2% para obras sociales","paraVos":"Sumalo al costo de mano de obra.","fuente":"Errepar","url":"https://www.consejosalta.org.ar/wp-content/uploads/SUQ-UOCRA_-se-homologo-el-aporte-empresario-del-2.pdf"},
-    {"fecha":"2026-07-23","categoria":"Normativa","impacto":"alto","efecto":"neutro","titulo":"Reforma laboral: el registro de trabajadores de la construcción pasa del IERIC a ARCA","paraVos":"Cambia cómo se registra el personal de obra.","fuente":"El Sol","url":"https://www.elsol.com.ar/el-pais/milei-puso-en-marcha-la-reforma-laboral-con-cambios-en-bonos-de-sueldos-licencias-y-gremios/"},
-    {"fecha":"2026-07-15","categoria":"Social y cultural","impacto":"alto","efecto":"positivo","titulo":"La construcción en seco gana terreno frente al hormigón","paraVos":"Tendencia a tu favor para tu comunicación comercial.","fuente":"Ámbito","url":"https://www.ambito.com/costo-la-construccion-a5126268"}
-  ]
+ "actualizado": "2026-11-24",
+ "noticias": [
+  {
+   "fecha": "2026-11-19",
+   "categoria": "Economía",
+   "impacto": "medio",
+   "efecto": "negativo",
+   "titulo": "Crédito hipotecario: 23.942 altas entre enero y octubre, 38,9% menos que en 2025",
+   "paraVos": "Puede influir en la demanda de vivienda y en la financiación de obras en construcción en seco.",
+   "fuente": "mercado.com.ar",
+   "url": "https://mercado.com.ar/finanzas/credito-hipotecario-2026-acumula-23-942-altas-hasta-octubre-y-cae-389-interanual"
+  },
+  {
+   "fecha": "2026-11-18",
+   "categoria": "Córdoba",
+   "impacto": "alto",
+   "efecto": "positivo",
+   "titulo": "Córdoba capital: el permiso de edificación se tramita 100% online",
+   "paraVos": "Menos plazo para habilitar casas en seco en la ciudad.",
+   "fuente": "La Voz / Infonegocios",
+   "url": "https://infonegocios.info/ciudad-informa/a-cuatro-meses-de-su-creacion-la-plataforma-digital-de-obras-privadas-lleva-mas-de-1-500-gestiones"
+  },
+  {
+   "fecha": "2026-11-18",
+   "categoria": "Economía",
+   "impacto": "medio",
+   "efecto": "positivo",
+   "titulo": "ANSES licitó fondos UVA para créditos hipotecarios: ofertas por $273.000 millones",
+   "paraVos": "Puede influir en la demanda de vivienda y en la financiación de obras en construcción en seco.",
+   "fuente": "iProUP",
+   "url": "https://www.iproup.com/finanzas/73251-por-que-los-creditos-hipotecarios-uva-vuelven-a-ganar-terreno"
+  },
+  {
+   "fecha": "2026-11-17",
+   "categoria": "Economía",
+   "impacto": "medio",
+   "efecto": "negativo",
+   "titulo": "Indicador CAMARCO: el costo de construir subió 1,2% en octubre",
+   "paraVos": "Presión sobre costos y demanda que conviene seguir de cerca en construcción en seco.",
+   "fuente": "CAMARCO",
+   "url": "https://www.camarco.org.ar/2026/11/17/indicador-camarco-octubre-2026/"
+  },
+  {
+   "fecha": "2026-11-12",
+   "categoria": "Economía",
+   "impacto": "medio",
+   "efecto": "negativo",
+   "titulo": "Inflación de octubre: 2,2% mensual, la más alta desde abril",
+   "paraVos": "Presión sobre costos y demanda que conviene seguir de cerca en construcción en seco.",
+   "fuente": "Rankia (datos INDEC)",
+   "url": "https://www.rankia.com.ar/noticias/bolsa/7550399-inflacion-octubre-2026-ipc-indec-fue-2-mas-alto-abril"
+  },
+  {
+   "fecha": "2026-11-10",
+   "categoria": "Economía",
+   "impacto": "medio",
+   "efecto": "positivo",
+   "titulo": "ISAC de INDEC: la actividad de la construcción subió 5,1% interanual en septiembre",
+   "paraVos": "La actividad general mejora aunque las ventas de insumos privados caen.",
+   "fuente": "INDEC",
+   "url": "https://www.indec.gob.ar/uploads/informesdeprensa/isac_11_26F4E69BED3F.pdf"
+  },
+  {
+   "fecha": "2026-11-10",
+   "categoria": "Materiales",
+   "impacto": "medio",
+   "efecto": "negativo",
+   "titulo": "Índice Construya: las ventas de insumos cayeron 3,53% en octubre y 9% interanual",
+   "paraVos": "Menos demanda de obra tradicional; clientes más cautos.",
+   "fuente": "mercado.com.ar (Grupo Construya)",
+   "url": "https://mercado.com.ar/ladrillos-y-proyectos/el-indice-construya-cayo-353-en-octubre-y-bajo-9-interanual"
+  },
+  {
+   "fecha": "2026-10-30",
+   "categoria": "Laboral",
+   "impacto": "medio",
+   "efecto": "negativo",
+   "titulo": "UOCRA: último aumento del año, 1,7% en noviembre; el acuerdo vence el 30/11",
+   "paraVos": "Presión sobre costos y demanda que conviene seguir de cerca en construcción en seco.",
+   "fuente": "iProfesional",
+   "url": "https://www.iprofesional.com/actualidad/467900-uocra-confirmo-el-ultimo-aumento-de-2026-asi-quedan-los-salarios-de-la-construccion"
+  },
+  {
+   "fecha": "2026-10-29",
+   "categoria": "Economía",
+   "impacto": "medio",
+   "efecto": "positivo",
+   "titulo": "BCRA: tasas reales de corto plazo negativas y menor mora favorecen el crédito",
+   "paraVos": "Más crédito puede reactivar la demanda de vivienda.",
+   "fuente": "BCRA",
+   "url": "https://www.bcra.gob.ar/pdfs/noticias/presentacion-conferencia-de-prensa-2026-10-29.pdf"
+  },
+  {
+   "fecha": "2026-10-16",
+   "categoria": "Economía",
+   "impacto": "alto",
+   "efecto": "negativo",
+   "titulo": "El costo de la construcción subió 1,5% en septiembre y acumula 31,3% interanual",
+   "paraVos": "Presupuestos con validez corta o cláusula de actualización.",
+   "fuente": "INDEC / mercado.com.ar",
+   "url": "https://mercado.com.ar/informes-especiales/el-costo-de-la-construccion-subio-15-en-septiembre-y-acumula-313-interanual"
+  }
+ ]
 }
