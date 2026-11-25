@@ -1,6 +1,16 @@
 {
- "actualizado": "2026-11-24",
+ "actualizado": "2026-11-25",
  "noticias": [
+  {
+   "fecha": "2026-11-24",
+   "categoria": "Economía",
+   "impacto": "medio",
+   "efecto": "neutro",
+   "titulo": "EMAE de septiembre: la actividad rebotó 1,1% mensual pero sigue 1,2% abajo del año pasado",
+   "paraVos": "Puede incidir en la demanda y los costos de la construcción en seco.",
+   "fuente": "Fracrán Noticias (datos INDEC)",
+   "url": "https://www.fracran.com.ar/noticias/2026-11-24-resumen-informativo-argentina-24-11"
+  },
   {
    "fecha": "2026-11-19",
    "categoria": "Economía",
@@ -13,16 +23,6 @@
   },
   {
    "fecha": "2026-11-18",
-   "categoria": "Córdoba",
-   "impacto": "alto",
-   "efecto": "positivo",
-   "titulo": "Córdoba capital: el permiso de edificación se tramita 100% online",
-   "paraVos": "Menos plazo para habilitar casas en seco en la ciudad.",
-   "fuente": "La Voz / Infonegocios",
-   "url": "https://infonegocios.info/ciudad-informa/a-cuatro-meses-de-su-creacion-la-plataforma-digital-de-obras-privadas-lleva-mas-de-1-500-gestiones"
-  },
-  {
-   "fecha": "2026-11-18",
    "categoria": "Economía",
    "impacto": "medio",
    "efecto": "positivo",
@@ -30,6 +30,16 @@
    "paraVos": "Puede influir en la demanda de vivienda y en la financiación de obras en construcción en seco.",
    "fuente": "iProUP",
    "url": "https://www.iproup.com/finanzas/73251-por-que-los-creditos-hipotecarios-uva-vuelven-a-ganar-terreno"
+  },
+  {
+   "fecha": "2026-11-18",
+   "categoria": "Córdoba",
+   "impacto": "alto",
+   "efecto": "positivo",
+   "titulo": "Córdoba capital: el permiso de edificación se tramita 100% online",
+   "paraVos": "Menos plazo para habilitar casas en seco en la ciudad.",
+   "fuente": "La Voz / Infonegocios",
+   "url": "https://infonegocios.info/ciudad-informa/a-cuatro-meses-de-su-creacion-la-plataforma-digital-de-obras-privadas-lleva-mas-de-1-500-gestiones"
   },
   {
    "fecha": "2026-11-17",
@@ -72,6 +82,16 @@
    "url": "https://mercado.com.ar/ladrillos-y-proyectos/el-indice-construya-cayo-353-en-octubre-y-bajo-9-interanual"
   },
   {
+   "fecha": "2026-11-03",
+   "categoria": "Córdoba",
+   "impacto": "alto",
+   "efecto": "positivo",
+   "titulo": "Córdoba amplió Cuotazas: hasta 20 cuotas sin interés en 826 comercios de materiales de construcción",
+   "paraVos": "Puede incidir en la demanda y los costos de la construcción en seco.",
+   "fuente": "Infonegocios",
+   "url": "https://infonegocios.info/amp/y-ademas/la-provincia-amplia-la-financiacion-para-el-hogar-y-la-construccion-con-hasta-20-cuotas-sin-interes"
+  },
+  {
    "fecha": "2026-10-30",
    "categoria": "Laboral",
    "impacto": "medio",
@@ -90,6 +110,16 @@
    "paraVos": "Más crédito puede reactivar la demanda de vivienda.",
    "fuente": "BCRA",
    "url": "https://www.bcra.gob.ar/pdfs/noticias/presentacion-conferencia-de-prensa-2026-10-29.pdf"
+  },
+  {
+   "fecha": "2026-10-20",
+   "categoria": "Normativa",
+   "impacto": "medio",
+   "efecto": "neutro",
+   "titulo": "El Gobierno postergó al 1° de diciembre los Fondos de Asistencia Laboral",
+   "paraVos": "Puede incidir en la demanda y los costos de la construcción en seco.",
+   "fuente": "Perfil",
+   "url": "https://www.perfil.com/noticias/economia/el-gobierno-postergo-hasta-diciembre-la-entrada-en-vigencia-de-los-fondos-de-asistencia-laboral.phtml"
   },
   {
    "fecha": "2026-10-16",
