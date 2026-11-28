@@ -1,6 +1,26 @@
 {
-  "actualizado": "2026-11-27",
+  "actualizado": "2026-11-28",
   "noticias": [
+    {
+      "fecha": "2026-11-27",
+      "categoria": "Economía",
+      "impacto": "medio",
+      "efecto": "negativo",
+      "titulo": "El Gobierno busca suavizar la suba del dólar y acotar el traspaso a precios",
+      "paraVos": "Dato que presiona costos o demanda en la construcción en seco.",
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/economia/2026/11/27/el-gobierno-salio-a-marcar-la-cancha-para-suavizar-la-suba-del-dolar-y-busca-acotar-el-impacto-sobre-la-inflacion/"
+    },
+    {
+      "fecha": "2026-11-26",
+      "categoria": "Laboral",
+      "impacto": "medio",
+      "efecto": "negativo",
+      "titulo": "Camarco Santa Fe: el sector perdió unos 85.000 empleos desde 2023 y pide sostener la obra pública",
+      "paraVos": "Dato que presiona costos o demanda en la construcción en seco.",
+      "fuente": "Radio Eme",
+      "url": "https://www.radioeme.com/2026/11/empresarios-de-la-construccion-respaldaron-el-plan-de-obra-publica-provincial/"
+    },
     {
       "fecha": "2026-11-24",
       "categoria": "Economía",
@@ -17,7 +37,7 @@
       "impacto": "medio",
       "efecto": "neutro",
       "titulo": "EMAE de septiembre: la actividad rebotó 1,1% mensual pero sigue 1,2% abajo del año pasado",
-      "paraVos": "Puede incidir en la demanda y los costos de la construcción en seco.",
+      "paraVos": "Dato que presiona costos o demanda en la construcción en seco.",
       "fuente": "Fracrán Noticias (datos INDEC)",
       "url": "https://www.fracran.com.ar/noticias/2026-11-24-resumen-informativo-argentina-24-11"
     },
@@ -27,7 +47,7 @@
       "impacto": "medio",
       "efecto": "positivo",
       "titulo": "Córdoba propone bajar 30% el Inmobiliario Urbano y recortar Ingresos Brutos en 2027",
-      "paraVos": "Dato favorable para la actividad de la construcción en seco.",
+      "paraVos": "Dato que presiona costos o demanda en la construcción en seco.",
       "fuente": "Hoy Día Córdoba",
       "url": "https://hoydia.com.ar/hoy-cordoba/llaryora-anuncio-una-baja-del-30-en-el-inmobiliario-urbano/"
     },
@@ -37,7 +57,7 @@
       "impacto": "medio",
       "efecto": "negativo",
       "titulo": "Crédito hipotecario: 23.942 altas entre enero y octubre, 38,9% menos que en 2025",
-      "paraVos": "Puede influir en la demanda de vivienda y en la financiación de obras en construcción en seco.",
+      "paraVos": "Dato que presiona costos o demanda en la construcción en seco.",
       "fuente": "mercado.com.ar",
       "url": "https://mercado.com.ar/finanzas/credito-hipotecario-2026-acumula-23-942-altas-hasta-octubre-y-cae-389-interanual"
     },
@@ -47,7 +67,7 @@
       "impacto": "medio",
       "efecto": "positivo",
       "titulo": "ANSES licitó fondos UVA para créditos hipotecarios: ofertas por $273.000 millones",
-      "paraVos": "Puede influir en la demanda de vivienda y en la financiación de obras en construcción en seco.",
+      "paraVos": "Dato que presiona costos o demanda en la construcción en seco.",
       "fuente": "iProUP",
       "url": "https://www.iproup.com/finanzas/73251-por-que-los-creditos-hipotecarios-uva-vuelven-a-ganar-terreno"
     },
@@ -67,7 +87,7 @@
       "impacto": "alto",
       "efecto": "positivo",
       "titulo": "Córdoba capital: el permiso de edificación se tramita 100% online",
-      "paraVos": "Menos plazo para habilitar casas en seco en la ciudad.",
+      "paraVos": "Dato que presiona costos o demanda en la construcción en seco.",
       "fuente": "La Voz / Infonegocios",
       "url": "https://infonegocios.info/ciudad-informa/a-cuatro-meses-de-su-creacion-la-plataforma-digital-de-obras-privadas-lleva-mas-de-1-500-gestiones"
     },
@@ -77,7 +97,7 @@
       "impacto": "medio",
       "efecto": "negativo",
       "titulo": "Indicador CAMARCO: el costo de construir subió 1,2% en octubre",
-      "paraVos": "Presión sobre costos y demanda que conviene seguir de cerca en construcción en seco.",
+      "paraVos": "Dato que presiona costos o demanda en la construcción en seco.",
       "fuente": "CAMARCO",
       "url": "https://www.camarco.org.ar/2026/11/17/indicador-camarco-octubre-2026/"
     },
@@ -87,9 +107,29 @@
       "impacto": "medio",
       "efecto": "neutro",
       "titulo": "ETEX, dueña de Durlock, cerró su planta de yeso de General Roca",
-      "paraVos": "Dato a seguir de cerca para el sector de la construcción en seco.",
+      "paraVos": "Dato que presiona costos o demanda en la construcción en seco.",
       "fuente": "Perfil",
       "url": "https://perfil.com/economia/el-dueno-de-durlock-cerro-una-historica-fabrica-en-rio-negro-y-despidio-a-sus-ultimos-empleados-a40-ad2Tb7f1t8du"
+    },
+    {
+      "fecha": "2026-11-17",
+      "categoria": "Política",
+      "impacto": "medio",
+      "efecto": "neutro",
+      "titulo": "Presupuesto 2027: el oficialismo consiguió dictamen de mayoría y lo lleva al recinto",
+      "paraVos": "Dato que presiona costos o demanda en la construcción en seco.",
+      "fuente": "Perfil / Parlamentario",
+      "url": "https://www.parlamentario.com/2026/11/17/presupuesto-2027-con-la-ayuda-de-aliados-lla-obtuvo-dictamen-de-mayoria-y-se-debate-la-proxima-semana/"
+    },
+    {
+      "fecha": "2026-11-17",
+      "categoria": "Córdoba",
+      "impacto": "medio",
+      "efecto": "negativo",
+      "titulo": "En Córdoba el costo de construir superó $1,06 millones por m² y sube 34,6% interanual",
+      "paraVos": "Dato que presiona costos o demanda en la construcción en seco.",
+      "fuente": "Puntal",
+      "url": "https://www.puntal.com.ar/construir/el-costo-construir-cordoba-supero-los-106-millones-metro-cuadrado-y-sigue-alza-n268370"
     },
     {
       "fecha": "2026-11-12",
@@ -97,7 +137,7 @@
       "impacto": "medio",
       "efecto": "negativo",
       "titulo": "Inflación de octubre: 2,2% mensual, la más alta desde abril",
-      "paraVos": "Presión sobre costos y demanda que conviene seguir de cerca en construcción en seco.",
+      "paraVos": "Dato que presiona costos o demanda en la construcción en seco.",
       "fuente": "Rankia (datos INDEC)",
       "url": "https://www.rankia.com.ar/noticias/bolsa/7550399-inflacion-octubre-2026-ipc-indec-fue-2-mas-alto-abril"
     },
@@ -107,49 +147,9 @@
       "impacto": "medio",
       "efecto": "positivo",
       "titulo": "ISAC de INDEC: la actividad de la construcción subió 5,1% interanual en septiembre",
-      "paraVos": "La actividad general mejora aunque las ventas de insumos privados caen.",
+      "paraVos": "Dato que presiona costos o demanda en la construcción en seco.",
       "fuente": "INDEC",
       "url": "https://www.indec.gob.ar/uploads/informesdeprensa/isac_11_26F4E69BED3F.pdf"
-    },
-    {
-      "fecha": "2026-11-10",
-      "categoria": "Materiales",
-      "impacto": "medio",
-      "efecto": "negativo",
-      "titulo": "Índice Construya: las ventas de insumos cayeron 3,53% en octubre y 9% interanual",
-      "paraVos": "Menos demanda de obra tradicional; clientes más cautos.",
-      "fuente": "mercado.com.ar (Grupo Construya)",
-      "url": "https://mercado.com.ar/ladrillos-y-proyectos/el-indice-construya-cayo-353-en-octubre-y-bajo-9-interanual"
-    },
-    {
-      "fecha": "2026-11-03",
-      "categoria": "Córdoba",
-      "impacto": "alto",
-      "efecto": "positivo",
-      "titulo": "Córdoba amplió Cuotazas: hasta 20 cuotas sin interés en 826 comercios de materiales de construcción",
-      "paraVos": "Puede incidir en la demanda y los costos de la construcción en seco.",
-      "fuente": "Infonegocios",
-      "url": "https://infonegocios.info/amp/y-ademas/la-provincia-amplia-la-financiacion-para-el-hogar-y-la-construccion-con-hasta-20-cuotas-sin-interes"
-    },
-    {
-      "fecha": "2026-10-30",
-      "categoria": "Laboral",
-      "impacto": "medio",
-      "efecto": "negativo",
-      "titulo": "UOCRA: último aumento del año, 1,7% en noviembre; el acuerdo vence el 30/11",
-      "paraVos": "Presión sobre costos y demanda que conviene seguir de cerca en construcción en seco.",
-      "fuente": "iProfesional",
-      "url": "https://www.iprofesional.com/actualidad/467900-uocra-confirmo-el-ultimo-aumento-de-2026-asi-quedan-los-salarios-de-la-construccion"
-    },
-    {
-      "fecha": "2026-10-29",
-      "categoria": "Economía",
-      "impacto": "medio",
-      "efecto": "positivo",
-      "titulo": "BCRA: tasas reales de corto plazo negativas y menor mora favorecen el crédito",
-      "paraVos": "Más crédito puede reactivar la demanda de vivienda.",
-      "fuente": "BCRA",
-      "url": "https://www.bcra.gob.ar/pdfs/noticias/presentacion-conferencia-de-prensa-2026-10-29.pdf"
     }
   ]
 }
